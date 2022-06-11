@@ -29,7 +29,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 
-###🔥 Projects
+### 🔥 Projects
 
 
 <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:4px;">
