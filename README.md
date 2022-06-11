@@ -32,7 +32,7 @@
 ### 🔥 Projects
 
 
-<div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:4px;">
+<div style="display:flex;gap:4px;">
 	<div>
 		<img src="https://raw.githubusercontent.com/Phoudthavisack/phoudthavisack/main/b52ead937e64c4f8eb96f3df52765f51.jpeg" alt=""/>
 	</div>
