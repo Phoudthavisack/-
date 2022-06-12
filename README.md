@@ -29,6 +29,16 @@
 ![Strapi](https://img.shields.io/badge/-Strapi-000?&logo=strapi)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
+### Skills
+
+![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobe-illustrator)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop)
+![Premiere%20Pro](https://img.shields.io/badge/-Premiere%20Pro-000?&logo=adobe-premiere-pro)
+![XD](https://img.shields.io/badge/-XD-000?&logo=adobe-xd)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![Slack](https://img.shields.io/badge/-Slack-000?&logo=slack)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
 
 ### 🔥 Projects
 
