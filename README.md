@@ -21,6 +21,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+
 ![MUI](https://img.shields.io/badge/-Material%20UI-000?&logo=MUI)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=tensorflow)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
