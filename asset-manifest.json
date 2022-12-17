@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Phoudthavisack/portfolio-manager/static/css/main.c7ec3132.css",
-    "main.js": "/Phoudthavisack/portfolio-manager/static/js/main.d7318907.js",
-    "index.html": "/Phoudthavisack/portfolio-manager/index.html",
-    "main.c7ec3132.css.map": "/Phoudthavisack/portfolio-manager/static/css/main.c7ec3132.css.map",
-    "main.d7318907.js.map": "/Phoudthavisack/portfolio-manager/static/js/main.d7318907.js.map"
+    "main.css": "/static/css/main.c7ec3132.css",
+    "main.js": "/static/js/main.98278bc7.js",
+    "index.html": "/index.html",
+    "main.c7ec3132.css.map": "/static/css/main.c7ec3132.css.map",
+    "main.98278bc7.js.map": "/static/js/main.98278bc7.js.map"
   },
   "entrypoints": [
     "static/css/main.c7ec3132.css",
-    "static/js/main.d7318907.js"
+    "static/js/main.98278bc7.js"
   ]
 }
